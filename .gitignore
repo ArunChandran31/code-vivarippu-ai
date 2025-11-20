@@ -1,0 +1,57 @@
+# PYTHON BACKEND
+venv/
+.env
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+instance/
+.cache/
+pytest_cache/
+migrations/
+
+# Ignore Firebase service account keys
+firebase_service_account.json
+
+# NODE/VITE FRONTEND
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.env
+frontend/*.local
+frontend/.cache
+frontend/.vite
+
+# LOGS
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS JUNK FILES
+.DS_Store
+Thumbs.db
+
+# EDITOR FILES
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# BACKEND BUILD & ARTIFACTS
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# RANDOM TEMP FILES
+*.tmp
+*.temp
