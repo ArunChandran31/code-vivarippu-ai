@@ -53,9 +53,8 @@ The system combines **local static analysis + AI LLM evaluation**, providing a d
 ## 🖼️ Screenshots
 
 ### **Home Page UI**
-
-!(../project_images/img1.png)
-!(../project_images/img2.png)
+![Home Page](project_images/img1.png)
+![Home Page](project_images/img2.png)
 ---
 
 ## 📦 Installation
@@ -133,9 +132,7 @@ This lets the app run **free** without external API keys.
 ---
 
 ## ⭐ Contribute
-
 Feel free to fork the project and raise PRs.
-
 If this helped you, give the repo a ⭐!
 
 ---
